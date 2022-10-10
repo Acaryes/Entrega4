@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Microfono",
+        "price": 2100.60,
+        "thumbnail": "https://hardzone.es/app/uploads-hardzone.es/2020/07/Micr%C3%B3fonos.jpg",
+        "id": 1
+    },
+    {
+        "title": "Camara",
+        "price": 1350.25,
+        "thumbnail": "https://www.fotomecanica.mx/media/catalog/product/cache/42278286db7a024dd142634a8b52937a/1/4/1491343549000_1318772.jpg",
+        "id": 2
+    },
+    {
+        "title": "Silla",
+        "price": 3501.29,
+        "thumbnail": "https://profoto.com.mx/media/catalog/product/cache/c7ec248abd02c6337a71a22dd7a858eb/s/i/silla_gamer_05_r.jpg",
+        "id": 3
+    },
+    {
+        "title": "Audifonos",
+        "price": 1390.99,
+        "thumbnail": "https://www.lg.com/mx/images/audifonos/md07539914/gallery/D01.jpg",
+        "id": 4
+    }
+]
